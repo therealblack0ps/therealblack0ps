@@ -21,8 +21,8 @@
 
 <br><br>
 
+- :computer: Self Learner `Youtube`
 - :school: I am a `Secondary Student` at Alexandria, Egypt
-- :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
