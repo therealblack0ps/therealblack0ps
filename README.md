@@ -14,7 +14,8 @@
 <p><img align="right" src="https://github.com/therealblack0ps/therealblack0ps/blob/Source/animation_500_kxa883sd.gif" alt="therealblack0ps" /></p>
 
 
-- 🌱 I’m Self Learner ( Youtube is my Friend ) <svg width="256px" height="180px" viewBox="0 0 256 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+- 🌱 I’m Self Learner ( Youtube is my Friend ) <p><img src="" alt="therealblack0ps" /></p>
+
 
 -  learning Web Development and other programming languages
 
