@@ -27,6 +27,7 @@
 
 
 ## <picture> <img src="https://github.com/therealblack0ps/therealblack0ps/blob/main/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+<br><br>
 
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width = 70px/></a>
@@ -36,6 +37,8 @@
 </p>
 
 ## <picture> <img src="https://github.com/therealblack0ps/therealblack0ps/blob/main/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<br><br>
+
 <p align="center">
 	<a href="https://github.com/therealblack0ps"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/therealblack0ps/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -48,6 +51,7 @@
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/therealblack0ps/therealblack0ps/blob/main/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+<br><br>
 
 <p align="center"> 
   &emsp; 
@@ -71,6 +75,7 @@
 
 
  ### <picture> <img src = "https://github.com/therealblack0ps/therealblack0ps/blob/main/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ <br><br>
  
 <p align="center">
   &emsp;
@@ -90,6 +95,7 @@
 </p>
 
  ### <picture> <img src = "https://github.com/therealblack0ps/therealblack0ps/blob/main/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ <br><br>
  
 <p align="center">
   &emsp;
@@ -100,6 +106,7 @@
 
 
  ### <picture> <img src = "https://github.com/therealblack0ps/therealblack0ps/blob/main/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ <br><br>
  
 <p align="center">
   &emsp;
@@ -121,6 +128,7 @@
 </p>
 
 ## <picture> <img src = "https://github.com/therealblack0ps/therealblack0ps/blob/main/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<br><br>
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
@@ -219,7 +227,7 @@
 </br></br>
 
 ## 🐍 A Snake Eating my Contributions Graph
-	
+<br><br>
 <p align = "center">
 	<img src = "https://github.com/therealblack0ps/therealblack0ps/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
