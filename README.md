@@ -11,7 +11,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="therealblack0ps" /></p>
+<p><img align="right" src="(https://github.com/therealblack0ps/therealblack0ps/commit/5bc5516d42b7a8707a6e8de9260640ef0a6a2e4d)" alt="therealblack0ps" /></p>
 
 
 - 🌱 I’m Self Learner ( Youtube is my Friend ) <svg width="256px" height="180px" viewBox="0 0 256 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
