@@ -152,7 +152,6 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealblack0ps&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="therealblack0ps" /></a> </p>
 
-[![@Blackops's Holopin board](https://holopin.io/api/user/board?user=therealblack0ps)](https://holopin.io/@Blackops)
 	
 </details>
 	
