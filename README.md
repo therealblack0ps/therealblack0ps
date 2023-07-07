@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer 👨‍💻.</h3>
 <h3 align="center">CTF Player 🚩.</h3>
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Self+Learner;Offensive+Security+Researcher;Ethical+Hacker;Bug+Hunter;Compettive+Player+at+CodeForces+Hack+The+Box+Try+Hack+Me;Software+Developer;Secondary+Student;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Self+Learner;Offensive+Security+Researcher;Ethical+Hacker;Bug+Hunter;Competitive+Player+at;CodeForces+Hack+The+Box+Try+Hack+Me;Software+Developer;Secondary+Student;Always+learning+new+things"></a>
 </p>
 
 
@@ -24,7 +24,7 @@
 - :computer: I am Self Learner `Youtube`
 - :school: I am a `Secondary Student` at Alexandria, Egypt
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Hack The Box`, `TryHackMe`.
+- :computer: I am a competitive Player at `Codeforces`, `Hack The Box`, `TryHackMe`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
