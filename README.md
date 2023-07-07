@@ -15,11 +15,16 @@
 
 
 - 🌱 I’m Self Learner ( Youtube is my Friend ) <p><img alt src="https://github.com/therealblack0ps/therealblack0ps/blob/Source/youtube-icon.svg" alt="therealblack0ps" /></p>
-<div>
-<p>This is my text</p>
-<img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-small.png">
-</img>
-
+.Har {
+    display:inline;
+}
+.Har * {
+    display:inline-block;
+    margin-top:auto;
+    margin-bottom:auto;
+}
+<div class="Har">
+ <img alt="" src="https://github.com/therealblack0ps/therealblack0ps/blob/Source/youtube-icon.svg"><span>Choose your car for a low weekly rate </span></div>
 
 -  learning Web Development and other programming languages
 
