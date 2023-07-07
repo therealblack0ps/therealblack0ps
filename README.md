@@ -14,7 +14,7 @@
 <p><img align="right" src="https://github.com/therealblack0ps/therealblack0ps/blob/Source/animation_500_kxa883sd.gif" alt="therealblack0ps" /></p>
 
 
-- 🌱 I’m Self Learner ( Youtube is my Friend ) <p><img src="" alt="therealblack0ps" /></p>
+- 🌱 I’m Self Learner ( Youtube is my Friend ) <p><img src="https://github.com/therealblack0ps/therealblack0ps/blob/Source/youtube-icon.svg" alt="therealblack0ps" /></p>
 
 
 -  learning Web Development and other programming languages
