@@ -30,9 +30,9 @@
 ## <picture> <img src="https://github.com/therealblack0ps/therealblack0ps/blob/main/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://github.com/therealblack0ps/therealblack0ps/blob/main/R.png" alt="TryHackMe" width = 60px/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://github.com/therealblack0ps/therealblack0ps/blob/main/hackthebox.png" alt="Hackthebox" width = 60px/></a>
+  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width = 70px/></a>
+	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://github.com/therealblack0ps/therealblack0ps/blob/main/R.png" alt="TryHackMe" width = 70px/></a>
+	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://github.com/therealblack0ps/therealblack0ps/blob/main/hackthebox.png" alt="Hackthebox" width = 70px/></a>
 	
 </p>
 
