@@ -14,7 +14,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="therealblack0ps" /></p>
 
 
-- 🌱 I’m Self Learner ( Youtube is my Friend ) <p><img align="right" src="https://www.bing.com/images/search?view=detailV2&ccid=fU1lUSbI&id=194115C59F31C256F0F386C310B3615A01477B46&thid=OIP.fU1lUSbIuYswKjwGrK1BrgHaEK&mediaurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F04%2FYouTube-Symbol.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.7d4d655126c8b98b302a3c06acad41ae%3Frik%3DRntHAVphsxDDhg%26pid%3DImgRaw%26r%3D0&exph=2160&expw=3840&q=youtube+logo+png&simid=608038898577785667&form=IRPRST&ck=86027FB019BC535306D115685C59F435&selectedindex=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11)" alt="therealblack0ps" /></p>
+- 🌱 I’m Self Learner ( Youtube is my Friend ) <p><img align="right" src="(https://www.bing.com/images/search?view=detailV2&ccid=fU1lUSbI&id=194115C59F31C256F0F386C310B3615A01477B46&thid=OIP.fU1lUSbIuYswKjwGrK1BrgHaEK&mediaurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F04%2FYouTube-Symbol.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.7d4d655126c8b98b302a3c06acad41ae%3Frik%3DRntHAVphsxDDhg%26pid%3DImgRaw%26r%3D0&exph=2160&expw=3840&q=youtube+logo+png&simid=608038898577785667&form=IRPRST&ck=86027FB019BC535306D115685C59F435&selectedindex=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11)" alt="therealblack0ps" /></p>
 
 
 -  learning Web Development and other programming languages
