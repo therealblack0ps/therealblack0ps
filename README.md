@@ -3,10 +3,6 @@
 <h3 align="center">Software Developer 👨‍💻.</h3>
 <h3 align="center">CTF Player 🚩.</h3>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=therealblack0ps&label=Profile%20views&color=0e75b6&style=flat"
-    alt="therealblack0ps" /> 
-  </p>
-
 <br>
 
 <p align="center"> 
