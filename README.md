@@ -145,14 +145,6 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![Blackops's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=therealblack0ps&theme=github	)](https://github.com/therealblack0ps/github-readme-activity-graph)
-
- 
-</details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
