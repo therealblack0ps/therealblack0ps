@@ -19,7 +19,7 @@
 - :computer: I am Self Learner `Youtube`
 - :school: I am a `Secondary Student` at Alexandria, Egypt
 - :technologist: I love using Software as a solution for every `Problem`.
-- :triangular_flag_on_post: I am a competitive Player at `Codeforces`, `Hack The Box`, `TryHackMe`.
+- :triangular_flag_on_post: I am a competitive Player at `Codeforces`, `HackTheBox`, `TryHackMe`.
 - :student: I’m currently learning `Software Engineering` and `Ethical Web Hacking`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
