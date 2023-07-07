@@ -14,7 +14,6 @@
 ## <picture><img src = "https://github.com/therealblack0ps/therealblack0ps/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/therealblack0ps/therealblack0ps/blob/main/animation_500_kxa883sd.gif?raw=true" width = 250px></picture>
-
 <br><br>
 - :computer: I am Self Learner `Youtube`
 - :school: I am a `Secondary Student` at Alexandria, Egypt
