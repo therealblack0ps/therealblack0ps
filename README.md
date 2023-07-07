@@ -145,16 +145,7 @@
   </p>
 </details>
 
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealblack0ps&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="therealblack0ps" /></a> </p>
-
-	
-</details>
-	
+<!--
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
@@ -225,10 +216,11 @@
 </div>
 </details>
 
+-->
 </br></br>
-	
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/therealblack0ps/therealblack0ps/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
