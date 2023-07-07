@@ -8,13 +8,17 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=therealblack0ps&label=Profile%20views&color=0e75b6&style=flat"
     alt="Blackops" /> 
   </p>
-
+  
 <br>
 
 <p><img align="right" src="https://github.com/therealblack0ps/therealblack0ps/blob/Source/animation_500_kxa883sd.gif" alt="therealblack0ps" /></p>
 
 
 - 🌱 I’m Self Learner ( Youtube is my Friend ) <p><img alt src="https://github.com/therealblack0ps/therealblack0ps/blob/Source/youtube-icon.svg" alt="therealblack0ps" /></p>
+<div>
+<p>This is my text</p>
+<img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-small.png">
+</img>
 
 
 -  learning Web Development and other programming languages
