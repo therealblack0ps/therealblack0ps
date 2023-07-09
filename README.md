@@ -21,8 +21,8 @@
 - :triangular_flag_on_post: I am a jr. competitive Player at `Codeforces`, `HackTheBox`, `TryHackMe`.
 - :student: I’m currently learning `Software Engineering` and `Ethical Web Hacking`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
+- :boom: You can visit [MY WEBSITE](#).
 <br>
 
 
