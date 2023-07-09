@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Ayman ( Blackops ) </h1>
 <h3 align="center">Offensive Security Researcher 🔍 | Bug Hunter 🦠 .</h3>
 <h3 align="center">Software Developer 👨‍💻.</h3>
-<h3 align="center">CTF Player 🚩.</h3>
+<h3 align="center">Competitive Player 🚩.</h3>
 
 <br>
 
@@ -18,7 +18,7 @@
 - :computer: I am Self Learner `Youtube`
 - :school: I am a `Secondary Student` at Alexandria, Egypt
 - :technologist: I love using Software as a solution for every `Problem`.
-- :triangular_flag_on_post: I am a competitive Player at `Codeforces`, `HackTheBox`, `TryHackMe`.
+- :triangular_flag_on_post: I am a jr. competitive Player at `Codeforces`, `HackTheBox`, `TryHackMe`.
 - :student: I’m currently learning `Software Engineering` and `Ethical Web Hacking`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
