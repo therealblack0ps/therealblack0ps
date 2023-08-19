@@ -16,7 +16,7 @@
 <picture> <img align="right" src="https://github.com/therealblack0ps/therealblack0ps/blob/main/animation_500_kxa883sd.gif?raw=true" width = 250px></picture>
 <br><br>
 - :computer: I am Self Learner `Youtube`
-- :school: I am a `Secondary Student` at Alexandria, Egypt
+- :school: I am a `Secondary Student` in Alexandria, Egypt
 - :technologist: I love using Software as a solution for every `Problem`.
 - :triangular_flag_on_post: I am a jr. competitive Player at `Codeforces`, `HackTheBox`, `TryHackMe`.
 - :student: I’m currently learning `Software Engineering` and `Ethical Web Hacking`.
